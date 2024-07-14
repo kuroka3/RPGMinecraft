@@ -1,0 +1,10 @@
+name: 'RPGMinecraft'
+version: '${version}'
+main: 'io.github.kuroka3.rpgminecraft.RPGMinecraftPlugin'
+api-version: '1.20'
+author: 'kuroka3, Disturb by ImRenders'
+commands:
+  artifactbuilder:
+    description: asdf
+  whatisthis:
+    description: asdf
